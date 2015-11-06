@@ -9,7 +9,7 @@ Made for [Übersicht](http://tracesof.net/uebersicht/)
 Übersicht is awesome for your OSX desktop.
 
 ## Sources
-Help by : <a href="https://github.com/Cajova-Houba">Cajova-Houba</a>
-Fork from : <a href="https://github.com/dalemanthei/uebersicht-widgets/tree/master/xkcd">dalemanthei/uebersicht-widgets/xkcd/ on Github</a>
+Help by : <a href="https://github.com/Cajova-Houba">Cajova-Houba</a><br>
+Fork from : <a href="https://github.com/dalemanthei/uebersicht-widgets/tree/master/xkcd">dalemanthei/uebersicht-widgets/xkcd/ on Github</a><br>
 Style based on DiskUsage-Bar-Widget : <a href="https://github.com/dinever/DiskUsage-Bar-Widget">Sources on Github</a>
 
